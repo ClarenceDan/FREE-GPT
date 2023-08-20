@@ -35,4 +35,4 @@ This is a [Next.js](https://nextjs.org/) project
 
 ## 🏃 运行
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/zsio/Free-GPT-No-Auth&project-name=free-gpt-no-auth&repository-name=Free-GPT-No-Auth)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ClarenceDan/FREE-GPT&project-name=FREE-GPT&repository-name=FREE-GPT)
