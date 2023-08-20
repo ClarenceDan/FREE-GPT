@@ -7,9 +7,9 @@ import { Site } from "@/types/type";
 
 const sites: Site[] = [
   {
-    title: 'FreeGPT',
+    title: 'Aivesa',
     modelType: ['gpt3'],
-    url: 'https://aivesa.com',
+    url: 'https://aivesa.com/redirect',
   },
   {
     title: 'acytoo',
