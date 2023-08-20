@@ -9,7 +9,7 @@ const sites: Site[] = [
   {
     title: 'FreeGPT',
     modelType: ['gpt3'],
-    url: 'https://chat.api-box.com',
+    url: 'https://aivesa.com',
   },
   {
     title: 'acytoo',
