@@ -21,6 +21,7 @@ export default function RootLayout({
     <html lang="zh-cn">
       <body className={inter.className}>{children}</body>
       <Analytics />
+      <script async src="https://umamis.zeabur.app/script.js" data-website-id="bf1bf94f-a68b-44d3-8955-da617051f274"></script>
     </html>
   )
 }
